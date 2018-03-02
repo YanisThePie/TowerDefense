@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2108210716, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+  m_Name: pink
+  m_EditorClassIdentifier: 
+  topLeft: {r: 0.9558824, g: 0.372513, b: 0.7708133, a: 1}
+  topRight: {r: 0.95686275, g: 0.37254903, b: 0.77254903, a: 1}
+  bottomLeft: {r: 0.85294116, g: 0.068987906, b: 0.6691176, a: 1}
+  bottomRight: {r: 0.85490197, g: 0.07058824, b: 0.67058825, a: 1}
